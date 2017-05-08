@@ -2,3 +2,5 @@
 Anaconda:
 32bit:https://repo.continuum.io/archive/Anaconda3-4.3.1-Windows-x86.exe
 64bit:https://repo.continuum.io/archive/Anaconda3-4.3.1-Windows-x86_64.exe
+
+Pyinstaller:https://codeload.github.com/pyinstaller/pyinstaller/legacy.zip/develop
